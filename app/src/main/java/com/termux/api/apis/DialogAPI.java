@@ -1,5 +1,7 @@
 package com.termux.api.apis;
-
+import android.animation.ObjectAnimator;
+import android.graphics.Color;
+import android.view.animation.LinearInterpolator;
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.Activity;
